@@ -2,8 +2,6 @@
 Medellin, Colombia. I am currently studying electrical engineer in University of Antioquia and also becoming a web front-end
 developer with the University of Antioquia.
 
-- 👀 I’m interested in ...
-
 - 🌱 I’m currently learning web front end in depth.
 
 - 💞️ I’m looking to collaborate on Innovative projects with people who contribute a lot to my formative stage, in addition to
