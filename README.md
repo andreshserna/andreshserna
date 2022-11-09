@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreshserna, my name is Andres Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at
+- 👋 Hi, I’m @andreshserna, my name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at
 Medellin, Colombia. I am currently studying electrical engineer in University of Antioquia and also becoming a web front-end
 developer with the University of Antioquia.
 
