@@ -9,8 +9,7 @@ jobs where fundamental skills of a developer are put into practice using topics 
 
 - 📫 Contact me here:
 - E-mail: mauricioserna123@gmail.com
-- LinkedIn: https://www.linkedin.com/in/amhs03/
+- LinkedIn: 
 
-<h1>I love animals!</h1>
-
+<a href="https://www.linkedin.com/in/amhs03/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/amhs03/" style="max-width: 100%;" width="40" height="30" align="middle"></a>
 
