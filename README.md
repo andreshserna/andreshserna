@@ -1,16 +1,16 @@
 <div align-content="center"><h1> 👋 Hi, I’m @andreshserna</h1></div>
 
 <h3>You want to know more about me?</h3>
-My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently studying electrical engineer in University of Antioquia and also becoming a web front-end developer with the University of EAFIT.
+My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently studying electrical engineer in <strong>University of Antioquia</strong> and also becoming a web front-end developer with <strong>the University of EAFIT!</strong>.
 
-- 🌱 I’m currently learning web front end in depth, working and learning with Globant!
+- 🌱 I’m currently learning web front end in depth, working and learning with <strong>Globant!</strong> as a Web UI Developer Jr.
 
 - 💞️ I’m looking to collaborate on Innovative projects with people who contribute a lot to my formative stage, in addition to
 jobs where fundamental skills of a developer are put into practice using topics that seem interesting to me.
 
 <br>
 - 📫 Contact me here:<br>
-- E-mail: mauricioserna123@gmail.com<br>
+- E-mail: <h3>mauricioserna123@gmail.com</h3><br>
 - LinkedIn:
 - <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amhs03" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/amhs03?trk=profile-badge">Andrés Mauricio Hernández Serna</a></div>
 
@@ -24,6 +24,4 @@ jobs where fundamental skills of a developer are put into practice using topics 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andreshserna)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andreshserna)  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andreshserna)
