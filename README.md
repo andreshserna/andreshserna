@@ -3,7 +3,7 @@
 <h3>You want to know more about me?</h3>
 My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently studying electrical engineer in <strong>University of Antioquia</strong> and also becoming a web front-end developer with <strong>the University of EAFIT!</strong>.
 
-- 🌱 I’m currently learning web front end in depth, working and learning with <strong>Globant!</strong> as a Web UI Developer Jr.
+- 🌱 I’m currently learning web front end in depth, working and learning with <strong>Globant!</strong> as a </strong><i>Web UI Developer Jr.</i></strong>
 
 - 💞️ I’m looking to collaborate on Innovative projects with people who contribute a lot to my formative stage, in addition to
 jobs where fundamental skills of a developer are put into practice using topics that seem interesting to me.
