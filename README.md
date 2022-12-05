@@ -1,7 +1,7 @@
 <div align-content="center"><h1> 👋 Hi, I’m @andreshserna</h1></div>
 
 <h3>You want to know more about me?</h3>
-My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently studying electrical engineer in <strong>University of Antioquia</strong> and also becoming a web front-end developer with <strong>the University of EAFIT!</strong>.
+My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently studying electrical engineer in <strong>University of Antioquia</strong> and also becoming a web front-end developer with <strong>the University EAFIT!</strong>.
 
 - 🌱 I’m currently learning web front end in depth, working and learning with <strong>Globant!</strong> as a </strong><i>Web UI Developer Jr.</i></strong>
 
