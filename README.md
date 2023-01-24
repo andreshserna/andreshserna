@@ -26,7 +26,6 @@ jobs where fundamental skills of a developer are put into practice using topics 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andreshserna)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreshserna&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andreshserna)  
 
