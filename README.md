@@ -3,7 +3,6 @@
 If you came to check some of what I have done:
 * Project of a gif search engine (React): <a href="https://coolgifs.netlify.app/">CoolGifs</a>
 * Practice with Bootstrap: <a href="https://andreshserna.github.io/AvengersAssemble-Website/">Avengers Assemble Website</a>
-* Basic website with only HTML and CSS for a garden design firm: <a href="https://andreshserna.github.io/Lucky-Shrub-wbsite/">Lucky Shrub</a> 
 * Form made to practice HTML and CSS. <a href="https://andreshserna.github.io/Form-for-NODO/">NODO Form</a>
 * Cover of a Magazine with Globant as Theme: <a href="https://andreshserna.github.io/Magazine-cover-of-Globant/">Globant Magazine</a> 
 
