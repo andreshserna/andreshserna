@@ -3,7 +3,8 @@
 I'm a software engineer with a passion for building scalable and efficient applications. I have experience working with a variety of technologies, including Java, Python, and Angular. In my free time, I enjoy contributing to open source projects and learning about new technologies.
 
 Here are some things that I have done:
-* Project of a gif search engine (React): <a href="https://coolgifs.netlify.app/">CoolGifs</a>
+* Project of a gif search engine (React, consuming API): <a href="https://coolgifs.netlify.app/">CoolGifs</a>
+* Project of a quizz app using (React, consuming API) <a href="https://quizzapp-andreshserna.netlify.app/">Quizz app</a>
 * Practice with Bootstrap: <a href="https://andreshserna.github.io/AvengersAssemble-Website/">Avengers Assemble Website</a>
 * Form made to practice HTML and CSS. <a href="https://andreshserna.github.io/Form-for-NODO/">NODO Form</a>
 * Cover of a Magazine with Globant as Theme: <a href="https://andreshserna.github.io/Magazine-cover-of-Globant/">Globant Magazine</a> 
