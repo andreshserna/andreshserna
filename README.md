@@ -3,11 +3,11 @@
 I'm a software engineer with a passion for building scalable and efficient applications. I have experience working with a variety of technologies, including Java, Python, and Angular. In my free time, I enjoy contributing to open source projects and learning about new technologies.
 
 Here are some things that I have done:
-* Project of a gif search engine (React, consuming API): <a target="_blank href="https://coolgifs.netlify.app/">CoolGifs</a>
-* Project of a quizz app (React, consuming API) <a target="_blank href="https://quizzapp-andreshserna.netlify.app/">Quizz app</a>
-* Practice with Bootstrap: <a href="https://andreshserna.github.io/AvengersAssemble-Website/" target="_blank>Avengers Assemble Website</a>
-* Form made to practice HTML and CSS. <a href="https://andreshserna.github.io/Form-for-NODO/" target="_blank>NODO Form</a>
-* Cover of a Magazine with Globant as Theme: <a target="_blank href="https://andreshserna.github.io/Magazine-cover-of-Globant/">Globant Magazine</a> 
+* Project of a gif search engine (React, consuming API): <a target="_blank" href="https://coolgifs.netlify.app/">CoolGifs</a>
+* Project of a quizz app (React, consuming API) <a target="_blank" href="https://quizzapp-andreshserna.netlify.app/">Quizz app</a>
+* Practice with Bootstrap: <a href="https://andreshserna.github.io/AvengersAssemble-Website/" target="_blank">Avengers Assemble Website</a>
+* Form made to practice HTML and CSS. <a href="https://andreshserna.github.io/Form-for-NODO/" target="_blank">NODO Form</a>
+* Cover of a Magazine with Globant as Theme: <a target="_blank" href="https://andreshserna.github.io/Magazine-cover-of-Globant/">Globant Magazine</a> 
 
 <h3>You want to know more about me?</h3>
 My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently becoming a web  developer with <strong>the University EAFIT!</strong>.
