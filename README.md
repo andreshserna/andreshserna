@@ -17,9 +17,9 @@ My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Col
 jobs where fundamental skills of a developer are put into practice using topics that seem interesting to me.
 
 <br>
- 🤝🏻Connect with Me<br>
-- E-mail: <h3>mauricioserna123@gmail.com</h3><br>
-- LinkedIn:<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amhs03" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/amhs03?trk=profile-badge">Andrés Mauricio Hernández Serna</a></div>
+ 🤝🏻Connect with Me:<br>
+- Here: <h3>mauricioserna123@gmail.com</h3><br>
+- Or here: <br>LinkedIn<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amhs03" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/amhs03?trk=profile-badge">Andrés Mauricio Hernández Serna</a></div>
 
 
 -    <a href="https://www.linkedin.com/in/amhs03/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/amhs03/" style="max-width: 100%;" width="40" height="40" align="middle"></a>
