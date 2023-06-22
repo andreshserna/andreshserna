@@ -13,9 +13,6 @@ Here are some things that I have done:
 My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently becoming a web  developer with <strong>the University EAFIT!</strong>.
 <img style="border-radius: 4px;" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code&style=for-the-badge">
 
-- 💞️ I’m looking to collaborate on Innovative projects with people who contribute a lot to my formative stage, in addition to
-jobs where fundamental skills of a developer are put into practice using topics that seem interesting to me.
-
 <br>
  🤝🏻Connect with Me:<br> 
  Here: <i>mauricioserna123@gmail.com</i><br>
