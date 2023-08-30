@@ -1,23 +1,46 @@
-<div align-content="center"><h1> 👋 Hi there, I’m @andreshserna</h1></div>
+<div align="center">
+  <h1>👋 Hey there, I'm Andrés Hernández Serna</h1>
+</div>
 
-I'm a software developer with a passion for building scalable and efficient applications. I have experience working with a variety of technologies, including Java, Python, and Angular. In my free time, I enjoy contributing to open source projects and learning about new technologies.
+<p align="center">
+  <a href="mailto:mauricioserna123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mauricioserna123%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/amhs03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-Here are some things that I have done:
-* Project of a gif search engine (React, consuming API): <a target="_blank" href="https://coolgifsapp.netlify.app/">CoolGifs</a>
-* Project of a quizz app (React, consuming API) <a target="_blank" href="https://quizzapp-andreshserna.netlify.app/">Quizz app</a>
-* Practice with Bootstrap: <a href="https://andreshserna.github.io/AvengersAssemble-Website/" target="_blank">Avengers Assemble Website</a>
-* Form made to practice HTML and CSS. <a href="https://andreshserna.github.io/Form-for-NODO/" target="_blank">NODO Form</a>
-* Cover of a Magazine with Globant as Theme:(Pure CSS and HTML to model) <a target="_blank" href="https://andreshserna.github.io/Magazine-cover-of-Globant/">Globant Magazine</a> 
+<p align="center">
+  Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and frameworks such as Next.js, Tailwind CSS, Java, Python, and Angular. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
+</p>
 
-<h3>You want to know more about me?</h3>
-My complete name is Andres Mauricio Hernandez Serna, I am from Barranquilla, Colombia; but I am based now at Medellin, Colombia. I am currently becoming a web  developer with <strong>the University EAFIT!</strong>.
-<img style="border-radius: 4px;" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code&style=for-the-badge">
+<h2 align="center">🚀 What I've Been Up To</h2>
 
-<br>
- 🤝🏻Connect with Me:<br> 
- Here: <i>mauricioserna123@gmail.com</i><br>
-Or <br>LinkedIn<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amhs03" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/amhs03?trk=profile-badge">Andrés Mauricio Hernández Serna</a></div>
+- Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/)
+- Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/)
+- Practiced responsive design with Bootstrap on the [Avengers Assemble Website](https://andreshserna.github.io/AvengersAssemble-Website/)
+- Designed and implemented an HTML/CSS form project: [NODO Form](https://andreshserna.github.io/Form-for-NODO/)
+- Crafted a magazine cover themed after Globant using HTML and CSS: [Globant Magazine](https://andreshserna.github.io/Magazine-cover-of-Globant/)
 
-<a href="https://www.linkedin.com/in/amhs03/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/amhs03/" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+<h2 align="center">🌍 About Me</h2>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andreshserna)
+<p align="center">
+  Hi there! I'm Andrés Mauricio Hernandez Serna, based in Medellin, Colombia. I'm currently pursuing a web development journey with <strong>University EAFIT</strong>. A coding enthusiast, I primarily work with Visual Studio Code as my code editor of choice.
+</p>
+
+<p align="center">
+  🛠️ My Tech Stack: Next.js, Tailwind CSS, Java, Python, Angular
+</p>
+
+<p align="center">
+  🌐 Connect with me on LinkedIn:
+  <br>
+  <a href="https://www.linkedin.com/in/amhs03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreshserna" alt="GitHub streak stats">
+</p>
