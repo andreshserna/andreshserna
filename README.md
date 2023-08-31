@@ -6,14 +6,15 @@
   <a href="mailto:mauricioserna123@gmail.com">
     <img src="https://img.shields.io/badge/Email-mauricioserna123%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/amhs03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
 </p>
 
 <p align="center">
   Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and frameworks such as Next.js, Tailwind CSS, Java, Python, and Angular. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
 </p>
+
+<div align="center"> <!-- Agregamos un contenedor para centrar la imagen -->
+  <img src="https://res.cloudinary.com/dciwzdk4j/image/upload/v1693498075/techstack_qytlq6.gif" alt="Tech Stack">
+</div>
 
 <h2 align="center">🚀 What I've Been Up To</h2>
 
@@ -35,7 +36,7 @@
 
 <p align="center">
   🌐 Connect with me on LinkedIn:
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/amhs03/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
