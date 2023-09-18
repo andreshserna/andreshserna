@@ -37,7 +37,7 @@
 <p align="center">
   🌐 Connect with me on LinkedIn:
   <br><br>
-  <a href="https://www.linkedin.com/in/amhs03/" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-hernandez-serna-front-end-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
