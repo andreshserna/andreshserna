@@ -41,7 +41,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreshserna" alt="GitHub streak stats">
-</p>
