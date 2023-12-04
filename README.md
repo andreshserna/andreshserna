@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and frameworks such as Next.js, Tailwind CSS, Java, Python, and Angular. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
+  Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and technologies such as Angular, Tailwind CSS, Java, Python, and OraclePL/SQL. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
 </p>
 
 <div align="center"> <!-- Agregamos un contenedor para centrar la imagen -->
