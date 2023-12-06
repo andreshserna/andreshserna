@@ -23,12 +23,21 @@
   <p>This repository contains both front-end and back-end for a comprehensive order management system, including design phase.</p>
   <p>Repo Link: <a href="https://github.com/andreshserna/chiletel">Chiletel Repository</a></p>
 </div>
+</div>
 
-- Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/)
-- Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/)
-- Practiced responsive design with Bootstrap on the [Avengers Assemble Website](https://andreshserna.github.io/AvengersAssemble-Website/)
-- Designed and implemented an HTML/CSS form project: [NODO Form](https://andreshserna.github.io/Form-for-NODO/)
-- Crafted a magazine cover themed after Globant using HTML and CSS: [Globant Magazine](https://andreshserna.github.io/Magazine-cover-of-Globant/)
+- Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/) ([Repository](https://github.com/yourusername/coolgifs-repo))
+- Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/) ([Repository](https://github.com/andreshserna/quizapp-main))
+- Practiced responsive design with Bootstrap on the ([Repository](https://github.com/andreshserna/AvengersAssemble-Website))
+- Designed and implemented an HTML/CSS form project: [NODO Form](https://andreshserna.github.io/Form-for-NODO/) ([Repository](https://github.com/andreshserna/Form-for-NODO))
+- Crafted a magazine cover themed after Globant using HTML and CSS: [Globant Magazine](https://andreshserna.github.io/Magazine-cover-of-Globant/) ([Repository](https://github.com/andreshserna/Magazine-cover-of-Globant))
+
+<h2 align="center">🌍 About Me</h2>
+
+- Quiz App Repository: [Quiz App Repository](https://github.com/andreshserna/quizapp-main)
+- Avengers Assemble Website Repository: [Avengers Assemble Repository](https://github.com/andreshserna/AvengersAssemble-Website)
+- Globant Magazine Repository: [Globant Magazine Repository](https://github.com/andreshserna/Magazine-cover-of-Globant)
+- NODO Form Repository: [NODO Form Repository](https://github.com/andreshserna/Form-for-NODO)
+
 
 <h2 align="center">🌍 About Me</h2>
 
