@@ -33,17 +33,9 @@
 
 <h2 align="center">🌍 About Me</h2>
 
-- Quiz App Repository: [Quiz App Repository](https://github.com/andreshserna/quizapp-main)
-- Avengers Assemble Website Repository: [Avengers Assemble Repository](https://github.com/andreshserna/AvengersAssemble-Website)
-- Globant Magazine Repository: [Globant Magazine Repository](https://github.com/andreshserna/Magazine-cover-of-Globant)
-- NODO Form Repository: [NODO Form Repository](https://github.com/andreshserna/Form-for-NODO)
-
-
-<h2 align="center">🌍 About Me</h2>
-
 
 <p align="center">
-  Hi there! I'm Andrés Mauricio Hernandez Serna, based in Medellin, Colombia. I'm currently pursuing a web development journey with <strong>University EAFIT</strong>. A coding enthusiast, I primarily work with Visual Studio Code as my code editor of choice.
+  Hi there! I'm based in Medellin, Colombia. I'm currently on a web development journey. A coding enthusiast, I primarily work with Visual Studio Code as my code editor of choice.
 </p>
 
 <p align="center">
