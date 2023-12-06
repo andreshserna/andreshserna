@@ -16,7 +16,13 @@
   <img src="https://res.cloudinary.com/dciwzdk4j/image/upload/v1693498075/techstack_qytlq6.gif" alt="Tech Stack">
 </div>
 
-<h2 align="center">🚀 What I've Been Up To</h2>
+<h2 align="center">🚀 Some projects and practices</h2>
+
+<div>
+  <h3>🔧 Project: Chiletel - Order Management System</h3>
+  <p>This repository contains both front-end and back-end for a comprehensive order management system, including design phase.</p>
+  <p>Repo Link: <a href="https://github.com/andreshserna/chiletel">Chiletel Repository</a></p>
+</div>
 
 - Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/)
 - Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/)
@@ -25,6 +31,7 @@
 - Crafted a magazine cover themed after Globant using HTML and CSS: [Globant Magazine](https://andreshserna.github.io/Magazine-cover-of-Globant/)
 
 <h2 align="center">🌍 About Me</h2>
+
 
 <p align="center">
   Hi there! I'm Andrés Mauricio Hernandez Serna, based in Medellin, Colombia. I'm currently pursuing a web development journey with <strong>University EAFIT</strong>. A coding enthusiast, I primarily work with Visual Studio Code as my code editor of choice.
