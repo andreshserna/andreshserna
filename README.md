@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Andrés Hernández Serna</h1>
+  <h1> Hey there, I'm Andrés Hernández Serna</h1>
 </div>
 
 <p align="center">
@@ -23,7 +23,15 @@
   <p>This repository contains both front-end and back-end for a comprehensive order management system, including design phase.</p>
   <p>Repo Link: <a href="https://github.com/andreshserna/chiletel">Chiletel Repository</a></p>
 </div>
+  <p>Here are also some websites I have worked on or made some improvements, collaborations, etc, and some other projects and practices:</p>
+  <ul>
+    <li><a href="https://www.schnyderlawfirm.com/">Schnyder Law Firm</a></li>
+    <li><a href="https://www.ultimmarketing.com/">Ultim Marketing</a></li>
+    <li><a href="https://truckerfy.com/home.html">Truckerfy</a></li>
+  </ul>
+
 </div>
+
 
 - Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/) ([Repository](https://github.com/yourusername/coolgifs-repo))
 - Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/) ([Repository](https://github.com/andreshserna/quizapp-main))
@@ -43,7 +51,7 @@
 </p>
 
 <p align="center">
-  🌐 Connect with me on LinkedIn and check my Tech Stack:
+  🌐 Connect with me on LinkedIn to know more about me, my background, experience and collaborate!
   <br><br>
   <a href="https://www.linkedin.com/in/andres-hernandez-serna-front-end-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
