@@ -8,11 +8,13 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and technologies such as Angular, Tailwind CSS, Java, Python, and OraclePL/SQL. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
 </p>
+<br>
 
-<div align="center"> <!-- Agregamos un contenedor para centrar la imagen -->
+
+<div align="center">
   <img src="https://res.cloudinary.com/dciwzdk4j/image/upload/v1693498075/techstack_qytlq6.gif" alt="Tech Stack">
 </div>
 
@@ -20,7 +22,7 @@
 
 <div>
   <h3>🔧 Project: Chiletel - Order Management System</h3>
-  <p>This repository contains both front-end and back-end for a comprehensive order management system, including design phase.</p>
+  <p>This repository here, has a comprehensive attention orders (damages) management software. This project encompasses both front-end and back-end development, offering a complete solution for users(technicians, customers) and order management, from design to execution.</p>
   <p>Repo Link: <a href="https://github.com/andreshserna/chiletel">Chiletel Repository</a></p>
 </div>
   <p>Here are also some websites I have worked on or made some improvements, collaborations, etc, and some other projects and practices:</p>
@@ -43,7 +45,7 @@
 
 
 <p align="center">
-  Hi there! I'm based in Medellin, Colombia. I'm currently on a web development journey. A coding enthusiast, I primarily work with Visual Studio Code as my code editor of choice.
+ I'm currently living in Medellin, Colombia. There are still many projects and experiences beyond what we can cover here. Feel free to contact me if you'd like to check more!
 </p>
 
 <p align="center">
