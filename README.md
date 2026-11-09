@@ -1,61 +1,52 @@
-<div align="center">
-  <h1> Hey there, I'm Andrés Hernández Serna</h1>
-</div>
+<h1 align="center">Hi, I'm Andrés Hernández Serna 👋</h1>
+<p align="center"><b>Marketing Web Developer · Webflow · HubSpot CMS · WordPress · AI Automation</b><br>
+Medellín, Colombia (UTC-5) · working remotely with U.S. teams on U.S. hours</p>
 
 <p align="center">
-  <a href="mailto:mauricioserna123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mauricioserna123%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/andres-hernandez-serna-software-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mauricioserna123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.ultimmarketing.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<p>
-  Passionate software developer with a strong background in both front-end and back-end technologies. Experienced in crafting efficient applications using a variety of tools and technologies such as Angular, Tailwind CSS, Java, Python, and OraclePL/SQL. Enthusiastic about contributing to open-source projects and staying up-to-date with emerging tech trends.
-</p>
-<br>
+---
 
+### What I do
+- 🚀 **1,000+ landing pages and websites shipped** (up to 70 a day) for U.S. agencies and brands across 10+ CMS platforms: Webflow, HubSpot CMS, Shopify, WordPress/Elementor and enterprise platforms.
+- 🔎 **Technical SEO and tracking**: metadata, schema, internal linking, Core Web Vitals, GA4, Google Tag Manager, Search Console.
+- 🤖 **AI automation**: I build agents and pipelines with Claude Code (skills, MCP, hooks), Python and APIs so pages go from brief to live with automatic QA and fewer errors.
+- 🧩 **Front-end**: HTML, CSS, JavaScript/TypeScript, React/Next.js, Tailwind, Figma-to-code.
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dciwzdk4j/image/upload/v1693498075/techstack_qytlq6.gif" alt="Tech Stack">
-</div>
+### Things I've built lately
+| Project | What it does | Stack |
+|---|---|---|
+| Brief-to-page publishing pipeline | Turns content briefs into live, SEO-checked CMS pages and updates tracking sheets automatically | Claude Code, Python, browser automation, Google Sheets & Asana APIs |
+| Personal operations agent | Daily summary of chats, email and calendar sent to my phone; drafts replies but only sends to an allow-list | Claude Code headless + MCP, systemd timers |
+| Coupon watcher | Reads a local message index, runs OCR on promo images, filters with rules and forwards only the good deals (zero LLM tokens) | Python, SQLite, RapidOCR (ONNX), REST API |
+| Expense tracker | Parses bank emails into SQLite with category rules and syncs a Google Sheet dashboard | Python, SQLite, Google Sheets API |
 
-<h2 align="center">🚀 Some projects and practices</h2>
+### Selected client work
+- [Schnyder Law Firm](https://www.schnyderlawfirm.com/): WordPress + Elementor build
+- [Victory INEOS Grenadier](https://www.victoryineosgrenadier.com/new-ineos-grenadier-specials/): specials and research pages (WordPress)
+- [Centennial Toyota](https://www.centennialtoyota.com/first-responder-discount/): campaign landing page
+- [ULTIM Marketing](https://www.ultimmarketing.com/): agency website
 
-<div>
-  <h3>🔧 Project: Chiletel - Order Management System</h3>
-  <p>This repository here, has a comprehensive attention orders (damages) management software. This project encompasses both front-end and back-end development, offering a complete solution for users(technicians, customers) and order management, from design to execution.</p>
-  <p>Repo Link: <a href="https://github.com/andreshserna/chiletel">Chiletel Repository</a></p>
-</div>
-  <p>Here are also some websites I have worked on or made some improvements, collaborations, etc, and some other projects and practices:</p>
-  <ul>
-    <li><a href="https://www.schnyderlawfirm.com/">Schnyder Law Firm</a></li>
-    <li><a href="https://www.ultimmarketing.com/">Ultim Marketing</a></li>
-    <li><a href="https://truckerfy.com/home.html">Truckerfy</a></li>
-  </ul>
+### Tech
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot%20CMS-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4%20%2F%20GTM-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+### Background
+B.Sc. Electrical Engineering (Universidad de Antioquia) · Web Development & Software Engineering (EAFIT) · Software Analysis & Development (SENA). English C2 · Spanish native.
 
-
-- Developed a dynamic GIF search engine using React and API integration. Check it out: [CoolGifs](https://coolgifsapp.netlify.app/) ([Repository](https://github.com/yourusername/coolgifs-repo))
-- Created an interactive quiz app utilizing React and external APIs. Take a look: [Quizz App](https://quizzapp-andreshserna.netlify.app/) ([Repository](https://github.com/andreshserna/quizapp-main))
-- Practiced responsive design with Bootstrap on the ([Repository](https://github.com/andreshserna/AvengersAssemble-Website))
-- Designed and implemented an HTML/CSS form project: [NODO Form](https://andreshserna.github.io/Form-for-NODO/) ([Repository](https://github.com/andreshserna/Form-for-NODO))
-- Crafted a magazine cover themed after Globant using HTML and CSS: [Globant Magazine](https://andreshserna.github.io/Magazine-cover-of-Globant/) ([Repository](https://github.com/andreshserna/Magazine-cover-of-Globant))
-
-<h2 align="center">🌍 About Me</h2>
-
-
-<p align="center">
- I'm currently living in Medellin, Colombia. There are still many projects and experiences beyond what we can cover here. Feel free to contact me if you'd like to check more!
-</p>
-
-<p align="center">
-  🛠️ 
-</p>
-
-<p align="center">
-  🌐 Connect with me on LinkedIn to know more about me, my background, experience and collaborate!
-  <br><br>
-  <a href="https://www.linkedin.com/in/andres-hernandez-serna-front-end-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Hern%C3%A1ndez%20Serna-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<p align="center"><i>Open to remote roles and freelance projects: Webflow / HubSpot / WordPress builds, landing pages and AI automation.</i></p>
