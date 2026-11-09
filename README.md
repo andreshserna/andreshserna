@@ -5,7 +5,7 @@ Medellín, Colombia (UTC-5) · working remotely with U.S. teams on U.S. hours</p
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-hernandez-serna-software-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mauricioserna123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.ultimmarketing.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://antresgroup.com/"><img src="https://img.shields.io/badge/Antres-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Antres"></a>
 </p>
 
 ---
@@ -13,22 +13,23 @@ Medellín, Colombia (UTC-5) · working remotely with U.S. teams on U.S. hours</p
 ### What I do
 - 🚀 **1,000+ landing pages and websites shipped** (up to 70 a day) for U.S. agencies and brands across 10+ CMS platforms: Webflow, HubSpot CMS, Shopify, WordPress/Elementor and enterprise platforms.
 - 🔎 **Technical SEO and tracking**: metadata, schema, internal linking, Core Web Vitals, GA4, Google Tag Manager, Search Console.
-- 🤖 **AI automation**: I build agents and pipelines with Claude Code (skills, MCP, hooks), Python and APIs so pages go from brief to live with automatic QA and fewer errors.
+- 🤖 **AI automation**: I build agents and pipelines with Claude Code (skills, MCP, hooks), Python and APIs that take repetitive work off a team's plate with fewer errors.
 - 🧩 **Front-end**: HTML, CSS, JavaScript/TypeScript, React/Next.js, Tailwind, Figma-to-code.
 
 ### Things I've built lately
 | Project | What it does | Stack |
 |---|---|---|
-| Brief-to-page publishing pipeline | Turns content briefs into live, SEO-checked CMS pages and updates tracking sheets automatically | Claude Code, Python, browser automation, Google Sheets & Asana APIs |
 | Personal operations agent | Daily summary of chats, email and calendar sent to my phone; drafts replies but only sends to an allow-list | Claude Code headless + MCP, systemd timers |
 | Coupon watcher | Reads a local message index, runs OCR on promo images, filters with rules and forwards only the good deals (zero LLM tokens) | Python, SQLite, RapidOCR (ONNX), REST API |
+| Chat memory search | Local semantic search over my message history ("what did we agree with X?"), no API costs | Python, SQLite + sqlite-vec, multilingual embeddings |
+| Local transcription | Transcribes voice notes and videos from files or links on CPU, zero tokens | Python, faster-whisper, yt-dlp |
 | Expense tracker | Parses bank emails into SQLite with category rules and syncs a Google Sheet dashboard | Python, SQLite, Google Sheets API |
 
-### Selected client work
-- [Schnyder Law Firm](https://www.schnyderlawfirm.com/): WordPress + Elementor build
+### Selected work
+- [Antres](https://antresgroup.com/)
+- [Doroni Aerospace – Invest](https://invest.doroni.io/)
 - [Victory INEOS Grenadier](https://www.victoryineosgrenadier.com/new-ineos-grenadier-specials/): specials and research pages (WordPress)
 - [Centennial Toyota](https://www.centennialtoyota.com/first-responder-discount/): campaign landing page
-- [ULTIM Marketing](https://www.ultimmarketing.com/): agency website
 
 ### Tech
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
